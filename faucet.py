@@ -92,7 +92,7 @@ if __name__ == "__main__":
 	# script info
 	print('[!] faucet.py by reduxd')
 	print('[!] drip.fm download client')
-	print('[!] http://github.com/reduxd/faucetpy')
+	print('[!] http://github.com/reduxd/faucet-py')
 	print('')
 
 	processedArgs = args(sys.argv[1:])
